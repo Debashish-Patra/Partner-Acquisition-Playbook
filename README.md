@@ -36,6 +36,4 @@ Marketing and growth teams at companies that grow through independent partners, 
 
 Issues and pull requests are welcome, especially anonymised real baselines, benchmarks by partner type, and corrections. Please leave out company names, budgets and partner details.
 
-## Licence
 
-MIT. See `LICENSE`.
