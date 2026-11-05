@@ -1,0 +1,6 @@
+stage,definition,max_time_from_previous_stage,owner,crm_field
+Lead,Registration form submitted,,Marketing,lead_created_at
+Qualified,Passes screening call: eligible and serious and in a target geography,1 business day,Sales,qualified_at
+Approved,Documents verified and onboarding approved,,Operations,approved_at
+Activated,First customer onboarded or first revenue within N days,,Business,activated_at
+Retained,Still active at 6 or 12 months,,Business,retained_flag

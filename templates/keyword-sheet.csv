@@ -1,0 +1,3 @@
+keyword,tier,match_type,landing_page,monthly_volume,current_rank,notes
+become a [partner type],1,phrase,/partner,,,example row: replace
+[partner type] earnings,2,broad,/partner/earnings,,,example row: replace
